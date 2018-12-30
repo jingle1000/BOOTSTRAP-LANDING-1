@@ -1,0 +1,9 @@
+html {
+  font-family: Lato,'Helvetica Neue',Helvetica,Arial,sans-serif
+}
+
+.hero {
+  height: 560px;
+  background: url(../img/hero.jpg) no-repeat center center;
+  background-color: #2c3e50;
+}
